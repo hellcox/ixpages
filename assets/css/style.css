@@ -1,6 +1,5 @@
 body {
     padding-top: 65px;
-    padding-bottom: 30px;
     background: url('../image/body_bg.png');
     color: #333;
 }
@@ -145,6 +144,9 @@ body {
 }
 
 /*color*/
+.white{
+    color: #fff;
+}
 .red{
     color: red;
 }
@@ -174,6 +176,27 @@ body {
 }
 .c888{
     color: #888;
+}
+.c999{
+    color: #999;
+}
+.caaa{
+    color: #aaa;
+}
+.cbbb{
+    color: #bbb;
+}
+.cccc{
+    color: #ccc;
+}
+.cddd{
+    color: #ddd;
+}
+.ceee{
+    color: #eee;
+}
+.cfff{
+    color: #fff;
 }
 
 /*text-size*/
@@ -275,3 +298,7 @@ body {
     color: #22BFF3;
 }
 
+/*底部*/
+.footer{
+    background: url('../image/footer_bg.png');
+}
